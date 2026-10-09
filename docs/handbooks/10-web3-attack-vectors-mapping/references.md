@@ -10,6 +10,8 @@ This appendix consolidates every external source cited across the Handbook's fiv
 - [MITRE ATT&CK Design and Philosophy / Data and Tools](https://attack.mitre.org/resources/attack-data-and-tools/)
 - [MITRE ATT&CK Version History](https://attack.mitre.org/resources/versions/)
 - [MITRE ATT&CK Tactic TA0001: Initial Access](https://attack.mitre.org/tactics/TA0001/)
+- [MITRE ATT&CK Tactic TA0002: Execution](https://attack.mitre.org/tactics/TA0002/)
+- [MITRE ATT&CK Tactic TA0004: Privilege Escalation](https://attack.mitre.org/tactics/TA0004/)
 - [MITRE ATT&CK Tactic TA0005: Defense Evasion](https://attack.mitre.org/tactics/TA0005/)
 - [MITRE ATT&CK Tactic TA0006: Credential Access](https://attack.mitre.org/tactics/TA0006/)
 - [MITRE ATT&CK Tactic TA0009: Collection](https://attack.mitre.org/tactics/TA0009/)
